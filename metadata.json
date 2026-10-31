@@ -1,0 +1,6 @@
+{
+  "name": "TatTel — Изучение татарского языка",
+  "description": "Минималистичное мобильное приложение для изучения татарского языка: интерактивные уроки, проверка знаний и нативный Jetpack Compose прототип.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
